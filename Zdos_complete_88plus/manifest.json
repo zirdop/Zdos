@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Zdos",
+  "version": "2.1.0",
+  "description": "Zdos visual website destruction console.",
+  "permissions": [
+    "scripting",
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "host_permissions": [
+    "<all_urls>"
+  ]
+}
