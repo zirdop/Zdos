@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Zdos",
+  "version": "1.0.0",
+  "description": "A client-side website chaos playground with 50+ visual mods.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_title": "Zdos",
+    "default_popup": "popup.html"
+  }
+}
